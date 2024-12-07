@@ -25,21 +25,16 @@ Objectives
 
 
 # Results
-# The SQL analysis provides the following insights:
-**  Departmental Composition: **
-    A breakdown of employees across different departments.
-**  Performance Insights: **
-    Average training scores, performance ratings, and job satisfaction levels for various employee groups.
-**  Attrition Patterns: **
-    Identifies high-turnover departments and regions, along with factors contributing to employee departures.
-**  Compensation Trends: **
-    Highlights income distribution and the top earners within each department.
-**  Employee Demographics: **
-  Insights into the gender, age, and education distribution within the organization.
+  # The SQL analysis provides the following insights:
+    Departmental Composition: A breakdown of employees across different departments.
+    Performance Insights: Average training scores, performance ratings, and job satisfaction levels for various employee groups.
+    Attrition Patterns: Identifies high-turnover departments and regions, along with factors contributing to employee departures.
+    Compensation Trends: Highlights income distribution and the top earners within each department.
+    Employee Demographics: Insights into the gender, age, and education distribution within the organization.
 
 
 # Tools Used
 
-# Database: MySQL
-SQL Queries: Various SQL commands (SELECT, GROUP BY, JOIN, CASE, etc.) to extract insights from the employee data.
-Data Sources: employee_test and employee_perf tables containing employee information such as demographics, performance ratings, training scores, job satisfaction, etc.
+  # Database: MySQL
+    SQL Queries: Various SQL commands (SELECT, GROUP BY, JOIN, CASE, etc.) to extract insights from the employee data.
+    Data Sources: employee_test and employee_perf tables containing employee information such as demographics, performance ratings, training scores, job satisfaction, etc.
