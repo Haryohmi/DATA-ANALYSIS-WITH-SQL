@@ -26,8 +26,8 @@ Objectives
 
 # Results
 
-The SQL analysis provides the following insights:
-  Departmental Composition: 
+# The SQL analysis provides the following insights:
+  # Departmental Composition: 
     A breakdown of employees across different departments.
   Performance Insights: 
     Average training scores, performance ratings, and job satisfaction levels for various employee groups.
